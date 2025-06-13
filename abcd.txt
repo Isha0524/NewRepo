@@ -1,1 +1,4 @@
 My name is Isha....
+
+
+working area------> staging area------> commit
